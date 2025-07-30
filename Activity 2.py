@@ -12,6 +12,6 @@ print(set4)
 
 set5 = set([0, 1, 2, 3, 4, 5])
 print(set5)
-set5.pop(0)
+set5.pop()
 print("after removing the first element from the set:")
 print(set5)
